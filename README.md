@@ -11,11 +11,8 @@ The goal of this project is to demonstrate the integration of Flask web framewor
 1. [Installation Instructions](#installation-instructions)
 2. [Usage Examples](#usage-examples)
 3. [Contribution Guidelines](#contribution-guidelines)
-4. [License Information](#license-information)
-5. [Contact Information](#contact-information)
-6. [Credits and Acknowledgments](#credits-and-acknowledgments)
-7. [Features and Roadmap](#features-and-roadmap)
-8. [Screenshots or Visuals](#screenshots-or-visuals)
+4. [Contact Information](#contact-information)
+5. [Credits and Acknowledgments](#credits-and-acknowledgments)
 
 ## Installation Instructions
 
@@ -29,3 +26,10 @@ The goal of this project is to demonstrate the integration of Flask web framewor
    ```bash
    git clone https://github.com/garvitpathak27/URL-Shortening-Service.git
    cd URL-Shortening-Service
+   cd url_shortner
+   pip install -r requirements.txt
+   mongod
+   python3 app.py
+
+The app should be accessible at http://127.0.0.1:5000/.
+
