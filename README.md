@@ -2,7 +2,7 @@
 
 ## Description
 
-This project implements a URL shortening service using Python, Flask, and MongoDB. It allows users to shorten long URLs into more manageable ones. The service stores the original and shortened URLs in a MongoDB database and provides API endpoints for creating, retrieving, updating, and deleting shortened URLs. 
+This project (project link : https://roadmap.sh/projects/url-shortening-service) implements a URL shortening service using Python, Flask, and MongoDB. It allows users to shorten long URLs into more manageable ones. The service stores the original and shortened URLs in a MongoDB database and provides API endpoints for creating, retrieving, updating, and deleting shortened URLs. 
 
 The goal of this project is to demonstrate the integration of Flask web framework, MongoDB database, and simple API design. It's a great tool for learning full-stack web development and working with databases.
 
